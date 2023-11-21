@@ -1,4 +1,3 @@
-# SneakerShop Project
 # Name of your final project: SneakerShop
 # Group: SE-2210
 # Team members: Aset Kuanyshbayev
