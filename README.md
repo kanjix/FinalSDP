@@ -40,6 +40,16 @@ The purpose of the project is to showcase the implementation of design patterns 
 
 - **SneakerInBrandedPackaging, GiftCardDecorator:** Decorators adding extra features (branded packaging, gift card) to the basic sneaker.
 
+
+### 5. Singleton Pattern
+
+- **SneakerInventoryManager:** The Singleton class responsible for managing sneaker inventory with a private instance and synchronized methods, ensuring a single point of access.
+- 
+### 6. Observer Pattern
+
+- **Customer:** This class implements the InventoryObserver interface, providing an update method to receive notifications about sneaker availability. The observer pattern facilitates communication between the inventory and customers.
+
+
 ## UML Diagram
 
 ![UML Diagram](https://user-images.githubusercontent.com/123344016/284712704-41c37ff3-bc98-4bac-a782-e08c031b00fd.jpg)
