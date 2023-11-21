@@ -43,7 +43,7 @@ The purpose of the project is to showcase the implementation of design patterns 
 
 ## UML Diagram
 
-![UML Diagram](link-to-your-uml-diagram-image)
+![UML Diagram]([link-to-your-uml-diagram-image](https://user-images.githubusercontent.com/123344016/284712704-41c37ff3-bc98-4bac-a782-e08c031b00fd.jpg))
 
 ## Conclusion
 
